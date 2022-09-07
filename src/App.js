@@ -9,7 +9,7 @@ import Contact from './pages/Contact/Contact';
 import Resume from './pages/Resume';
 import Footer from './pages/Footer';
 
-import "./main.css";
+
 import "./App.css";
 
 
