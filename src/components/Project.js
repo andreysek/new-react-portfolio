@@ -48,10 +48,10 @@ function Project() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">E-COMMERCE STORE</h5>
+                            <h5 className="ff-jose my-1" style={{color:'black'}}>E-COMMERCE STORE</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://premium-gadgets.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><VscOpenPreview/> Preview </a>
-                                <a href="https://github.com/andreysek/Premium-Gadgets" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Code</a>
+                                <a href="https://premium-gadgets.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><VscOpenPreview/> Preview </a>
+                                <a href="https://github.com/andreysek/Premium-Gadgets" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><AiFillGithub/> Code</a>
                             </div>
 
                     </div>
@@ -73,9 +73,9 @@ function Project() {
                             </button>
                         </div>
                         <div>
-                            <h5 className="ff-jose my-1">EXPENSE TRACKER</h5>
+                            <h5 className="ff-jose my-1" style={{color:'black'}}>EXPENSE TRACKER</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://arcane-dawn-47057.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><VscOpenPreview/> Preview</a>
+                                <a href="https://arcane-dawn-47057.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><VscOpenPreview/> Preview</a>
                                 
                             </div>
                         </div>
@@ -98,10 +98,10 @@ function Project() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">ACTRESS PORTFOLIO</h5>
+                            <h5 className="ff-jose my-1" style={{color:'black'}}>ACTRESS PORTFOLIO</h5>
                             <div className="row d-flex justify-content-center">
-                            <a href="https://tania2.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><VscOpenPreview/> Preview</a>
-                                <a href="https://github.com/andreysek/tania2" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Code</a>
+                            <a href="https://tania2.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><VscOpenPreview/> Preview</a>
+                                <a href="https://github.com/andreysek/tania2" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><AiFillGithub/> Code</a>
                             </div>
                         
                     </div>
@@ -124,10 +124,10 @@ function Project() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">CRYPTO-APP</h5>
+                            <h5 className="ff-jose my-1" style={{color:'black'}}>CRYPTO-APP</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://crypto-gka7bh0j1-andreysek.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><VscOpenPreview/> Preview</a>
-                                <a href="https://github.com/andreysek/crypto-app" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Code</a>
+                                <a href="https://crypto-gka7bh0j1-andreysek.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><VscOpenPreview/> Preview</a>
+                                <a href="https://github.com/andreysek/crypto-app" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><AiFillGithub/> Code</a>
                             </div>
                         
                     </div>
@@ -149,10 +149,10 @@ function Project() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">CLONE TEMPLATE</h5>
+                            <h5 className="ff-jose my-1" style={{color:'black'}}>CLONE TEMPLATE</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://portfolio-blond-omega.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><VscOpenPreview/> Preview</a>
-                                <a href="https://github.com/andreysek/portfolio-website" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Code</a>
+                                <a href="https://portfolio-blond-omega.vercel.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><VscOpenPreview/> Preview</a>
+                                <a href="https://github.com/andreysek/portfolio-website" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><AiFillGithub/> Code</a>
                             </div>
                         
                     </div>
@@ -175,10 +175,10 @@ function Project() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">Landing Page</h5>
+                            <h5 className="ff-jose my-1" style={{color:'black'}}>Landing Page</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://andreysek.github.io/family-hearts/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><VscOpenPreview/> Preview</a>
-                                <a href="https://github.com/andreysek/andreysek.github.io" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Code</a>
+                                <a href="https://andreysek.github.io/family-hearts/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><VscOpenPreview/> Preview</a>
+                                <a href="https://github.com/andreysek/andreysek.github.io" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-black m-1 px-2 py-1 bg-#968e8e rounded" target="_blank"><AiFillGithub/> Code</a>
                             </div>
                         
                     </div>
