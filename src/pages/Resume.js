@@ -158,13 +158,13 @@ function Resume() {
                                 <li>
                                     <h4 className="ff-jose my-1 text-black">The Complete 2022 Web Development BootCamp </h4>
                                     <h6 className="white-label px-2 py-1">Certificate ID</h6>
-                                    <p className="m-0"><a href>https://www.udemy.com/certificate/UC-52036532-9bd9-4400-988d-5e074b143cee/</a></p>
+                                    <p className="m-0"><a href='https://www.udemy.com/certificate/UC-52036532-9bd9-4400-988d-5e074b143cee/'></a></p>
 
                                 </li>
                                 <li>
                                     <h4 className="ff-jose my-1 text-black">100 Days of Code: The Complete Python Pro Bootcamp for 2022 -</h4>
                                     <h6 className="white-label px-2 py-1">Certificate ID</h6>
-                                    <p className="m-0"><a href>https://www.udemy.com/certificate/UC-52036532-9bd9-4400-988d-5e074b143cee/</a></p>
+                                    <p className="m-0"><a href='https://www.udemy.com/certificate/UC-52036532-9bd9-4400-988d-5e074b143cee/'></a></p>
 
                                 </li>
                                 <li>
