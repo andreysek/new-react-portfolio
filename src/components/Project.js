@@ -8,6 +8,7 @@ import { TypeAnimation } from 'react-type-animation';
 function Project() {
   return (
     <Fragment>
+         <hr/>
         <div className="col p-4"> 
             <div className="p-4 slide-in-top">
                 
@@ -24,12 +25,12 @@ function Project() {
     ]}
     wrapper="h2"
     repeat={Infinity}
-    style={{ fontSize: '1.5em', color: 'rgb(34, 32, 32)', letterSpacing: '-2px', fontFamily: 'Rubik Maze', fontWeight: 'lighter' }}
+    style={{ fontSize: '1.3em', color: 'rgb(34, 32, 32)', letterSpacing: '-2px', fontFamily: 'Rubik Maze', fontWeight: 'lighter' }}
 
 /></h2>
                     </div>
                 </div>
-                <hr></hr>
+               
                 <div className="row">
                     <div className="col-md-4 text-center my-2">
                         

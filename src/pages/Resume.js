@@ -10,6 +10,7 @@ import { TypeAnimation } from 'react-type-animation';
 function Resume() {
     return (
         <Fragment>
+            <hr />
             <div className="col p-4" style={{ color: 'black', }}>
                 <div className="p-4 style={{backgroundColor:'#968e8e'}} slide-in-top">
 
@@ -19,8 +20,11 @@ function Resume() {
                                 <TypeAnimation
                                     cursor={false}
                                     sequence={[
-                                        'SEKITTO ANDREW',
+                                        'Resume',
                                         2000,
+                                        '& Experience',
+                                        2000,
+
 
                                     ]}
                                     wrapper="h2"
@@ -31,7 +35,7 @@ function Resume() {
                             </h2>
                         </div>
                     </div>
-                    <hr></hr>
+                    <br />
                     <div className="row">
                         <div className="col-md-6">
                             <h4 className="ff-jose ls-2"> <TypeAnimation

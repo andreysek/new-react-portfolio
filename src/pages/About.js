@@ -28,7 +28,7 @@ const About = () => {
 
                             />
 
-                            <hr />
+                            
                             <p className="ls-2 mt-2 slide-in-bottom">I'm a web developer with a full stack knowledge, but still exploring other technologies and frameworks to broaden my knowledge and understanding of the tech-world!</p>
                         </div>
                     </div>

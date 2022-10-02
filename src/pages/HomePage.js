@@ -37,9 +37,9 @@ function HomePage() {
                         </div>
 
                     </div>
-
+                    <hr style={{color: 'black'}}/>  
                 </div>
-                                
+                              
 
 
             </div>
