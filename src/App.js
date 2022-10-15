@@ -2,7 +2,7 @@ import React from 'react';
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navigation from "./components/NavBar"
-import Main from './pages/Main';
+import HomePage from './pages/HomePage';
 import About from './pages/About';
 import Project from './components/Project';
 import Resume from './pages/Resume';
@@ -18,12 +18,13 @@ function App() {
       <Router>
         <Navigation />
         <Routes>
-          <Route path='/' element={<Main />} />
+          <Route path='/' element={<HomePage />} />
           <Route path='/About' element={<About />} />
           <Route path='/Project' element={<Project />} />
           <Route path='/Resume' element={<Resume />} />
           <Route path='/Contact' element={<Contact />} />
         </Routes>
+        
       <Footer />
       </Router>
     </div>

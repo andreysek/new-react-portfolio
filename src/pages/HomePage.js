@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react'
 import { TypeAnimation } from 'react-type-animation';
+import Fade from 'react-reveal/Fade';
+ import { GiLobArrow } from 'react-icons/gi'
 
 function HomePage() {
     return (
@@ -28,7 +30,12 @@ function HomePage() {
                                 />
 
                                 <hr />
-                                <p className="ls-2 mt-2 slide-in-bottom">All i do is REACT & NODE with components to bring out the best feel of web development!</p>
+                                <Fade left>
+                                    <p className="ls-2 mt-2 slide-in-bottom">All i do is REACT & NODE with components to bring out the best feel of web development!</p>
+                                </Fade>
+                                <div style={{alignItems: 'center'}}>
+                                    <a href='/About'><GiLobArrow size={50} color= '#ADCF9F' /></a>
+                                </div>
                             </div>
                         </div>
 
@@ -37,9 +44,10 @@ function HomePage() {
                         </div>
 
                     </div>
-                    <hr style={{color: 'black'}}/>  
+
+                    <hr style={{ color: 'black' }} />
                 </div>
-                              
+
 
 
             </div>

@@ -5,14 +5,13 @@ const Footer = () => {
   return (
 
     <div className="footer-container">
-      <ul className="icons">
-        <a href="tel:+256772450576"><img src='/images/phone.png' width={50}/></a> 
+
+      <ul className="copyright" style={{ color: 'black' }}>
+      
+        <li>&copy; </li>Andrey Sek 2022<li><script>document.write(new Date().getFullYear())</script>
+        </li>
       </ul>
-      <ul className="copyright" style={{color:'black'}}>
-        <li>&copy; </li>Andrey Sek<li>
-          Design: <a target="_blank" rel="noreferrer" href="https://portfolio-blond-omega.vercel.app/">Andrey Sek</a></li>
-      </ul>
-  
+
     </div>
 
 
