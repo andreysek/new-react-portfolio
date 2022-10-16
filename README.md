@@ -1,4 +1,5 @@
-[Image 16-10-2022 at 06 07](https://user-images.githubusercontent.com/93974283/196016098-9441ce51-ab8f-4c61-80bf-f3c9eaee3aea.jpg)
+
+![Image 16-10-2022 at 06 07](https://user-images.githubusercontent.com/93974283/196016114-5338d8b2-5bfa-4da0-b97c-ff417e6ba265.jpg)
 
 
 My simple react portfolio built using the standard Creat React App.
